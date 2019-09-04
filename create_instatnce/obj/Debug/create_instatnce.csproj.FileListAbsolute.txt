@@ -1,0 +1,14 @@
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\bin\Debug\create_instatnce.exe.config
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\bin\Debug\create_instatnce.exe
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\bin\Debug\create_instatnce.pdb
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\bin\Debug\AWSSDK.Core.dll
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\bin\Debug\AWSSDK.EC2.dll
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\bin\Debug\AWSSDK.S3.dll
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\bin\Debug\AWSSDK.SimpleDB.dll
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\bin\Debug\AWSSDK.Core.xml
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\bin\Debug\AWSSDK.EC2.xml
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\bin\Debug\AWSSDK.SimpleDB.xml
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\bin\Debug\AWSSDK.S3.xml
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\obj\Debug\create_instatnce.csprojResolveAssemblyReference.cache
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\obj\Debug\create_instatnce.exe
+c:\users\tokka\documents\visual studio 2015\Projects\create_instatnce\create_instatnce\obj\Debug\create_instatnce.pdb
